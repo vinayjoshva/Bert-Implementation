@@ -56,10 +56,16 @@ Usage
  ┗ 📂 screenshots         # Placeholder for screenshots
 Screenshots
 1. Streamlit Interface
+   ![image](https://github.com/user-attachments/assets/d68a4096-e06f-4011-9591-e8262cb087aa)
+
 
 2. Tokenized Text Output
+   ![image](https://github.com/user-attachments/assets/767421b4-5da0-4abe-a5fd-67eab24d7e6b)
+
 
 3. Attention Visualization
+   ![image](https://github.com/user-attachments/assets/c8144c57-8fbb-4be5-b9cd-058cb96e10c1)
+
 
 Known Issues & Troubleshooting
 1. Attention Visualization Not Displaying
